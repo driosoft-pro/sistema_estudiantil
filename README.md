@@ -66,9 +66,6 @@ Este proyecto es un sistema de gestión de estudiantes que permite registrar est
     ```bash
     python run.py
     ```
-
-2. El sistema estará disponible en tu navegador en la dirección `http://127.0.0.1:5000`.
-
 ---
 
 ## Estructura del Proyecto
